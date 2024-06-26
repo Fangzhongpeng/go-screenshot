@@ -1,7 +1,5 @@
 # go-screenshot
 
-go语言截图小工具
-
 
 go语言截图小工具
 
